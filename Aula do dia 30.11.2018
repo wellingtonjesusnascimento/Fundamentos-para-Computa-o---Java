@@ -1,0 +1,11 @@
+package AulaJava30112018;
+
+public class AulaJava30112018 
+{
+ public static void mais(String[]args)
+ //int main 'métodos estáticos'.
+ //método de imprimir vetor
+ //Foi utilizado o exemplo de impressão de CPF, Nome e Endereço.
+ //public void deposito (Conta. int valor) {
+ //Foi utilizada a variável de comparação for (int = 0. i < 10; i++ {
+}
